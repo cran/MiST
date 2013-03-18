@@ -1,0 +1,13 @@
+e04628df4cc2200265f0887236acaf80 *DESCRIPTION
+00ec21430d0bbcf68f677a0313455470 *NAMESPACE
+055fa361c6ce78d548b8f1f9e6dca7d8 *R/linear.test.R
+fa8fcc1e702ddb2697f1666f801b8382 *R/linear.weight.test.R
+9b38c07e0f789c04d897454e00bfe451 *R/logit.test.R
+a768929b1e59956f2bd1cfea9532fe56 *R/logit.weight.test.R
+1bce6894e431084a7450e9a6a0a87153 *data/MiST.data.rda
+1659bf429f1d1c638f06ab7cd264b875 *man/MiST-package.Rd
+2f4cb2dbb5372e231d90d2846e7c010c *man/MiST.data.Rd
+65622fc20e6375c32adcb2b487f50fbe *man/linear.test.Rd
+e02892dd0d915186bd854450e70a3678 *man/linear.weight.test.Rd
+fa14ffd5ac3455758398c9e65663b3ae *man/logit.test.Rd
+a61dec32ec1badec22d91dd99e127fb0 *man/logit.weight.test.Rd
